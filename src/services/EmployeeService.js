@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const EMPLOYEE_API_BASE_URL = "http://localhost:9091/api/v1/employees";
+const EMPLOYEE_API_BASE_URL = "https://backend-crud-duvt.onrender.com/api/v1/employees";
+
 
 class EmployeeService {
 
